@@ -1,6 +1,6 @@
-import * as THREE from '../../libs/three/three.module.js';
-import { BufferGeometryUtils } from '../../libs/three/jsm/BufferGeometryUtils.js';
-import { ARButton } from '../../libs/ARButton.js';
+import * as THREE from 'https://raw.githack.com/lokeshkosuri/sampleMesureWebXR/main/libs/three/three.module.js';
+import { BufferGeometryUtils } from 'https://raw.githack.com/lokeshkosuri/sampleMesureWebXR/main/libs/three/jsm/BufferGeometryUtils.js';
+import { ARButton } from 'https://raw.githack.com/lokeshkosuri/sampleMesureWebXR/main/libs/three/jsm/ARButton.js';
 
 class App{
 	constructor(){
